@@ -1,4 +1,4 @@
-#DuckyScripts
+# DuckyScripts
 
 Make sure you change the ip and port values before compiling using https://payloadstudio.com/community/
 
