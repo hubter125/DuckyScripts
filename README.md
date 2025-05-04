@@ -1,7 +1,7 @@
 # DuckyScripts
 
 The reverse shell comes from https://github.com/antonioCoco/ConPtyShell
-This script will turn of defender on a windows 11 device, and attempt to connect to the ip and port you specify
+This script will turn off defender on a windows 11 device, and attempt to connect to the ip and port you specify
 
 Make sure you change the ip and port values before compiling using https://payloadstudio.com/community/
 
